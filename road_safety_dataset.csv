@@ -1,0 +1,13 @@
+road_name,safety_status,reason
+Elevated Ring Road,Unsafe,Poor lighting at night
+Highway Bypass,Safe,
+Main Street,Safe,
+Riverbank Road,Unsafe,Flooded during heavy rains
+Sunset Avenue,Unsafe,Flooded during heavy rains
+Oak Street,Unsafe,Frequent potholes
+Lakeside Drive,Unsafe,"Narrow road, prone to accidents"
+Hilltop Road,Safe,
+Coastal Highway,Unsafe,Flooded during heavy rains
+Maple Lane,Unsafe,Flooded during heavy rains
+Pine Street,Unsafe,Flooded during heavy rains
+Bridge Avenue,Unsafe,Low-lying area prone to flooding
