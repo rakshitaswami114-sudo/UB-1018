@@ -53,7 +53,7 @@ st.markdown("---")
 # Load Model & Data
 # ---------------------------
 model = joblib.load("flood_model.pkl")
-df = pd.read_csv("data/flood_dataset.csv")
+df = pd.read_csv("flood_dataset.csv")
 
 # ---------------------------
 # SIDEBAR NAVIGATION
@@ -865,3 +865,4 @@ elif page == "🚑 Emergency Services":
 
 
     st.info("Nearest Hospital: City General Hospital")
+
