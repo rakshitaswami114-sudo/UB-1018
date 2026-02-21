@@ -52,8 +52,8 @@ st.markdown("---")
 # ---------------------------
 # Load Model & Data
 # ---------------------------
-model = joblib.load("flood_model.pkl")
-df = pd.read_csv("flood_dataset.csv")
+model = joblib.load("model/flood_model.pkl")
+df = pd.read_csv("data/flood_dataset.csv")
 
 # ---------------------------
 # SIDEBAR NAVIGATION
