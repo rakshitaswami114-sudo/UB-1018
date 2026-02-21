@@ -52,7 +52,7 @@ st.markdown("---")
 # ---------------------------
 # Load Model & Data
 # ---------------------------
-model = joblib.load("model/flood_model.pkl")
+model = joblib.load("flood_model.pkl")
 df = pd.read_csv("data/flood_dataset.csv")
 
 # ---------------------------
@@ -862,5 +862,6 @@ elif page == "🚑 Emergency Services":
     st.write("• 5 Ambulances Deployed")
     st.write("• 3 Fire Rescue Units Active")
     st.write("• 2 Rapid Response Teams Stationed")
+
 
     st.info("Nearest Hospital: City General Hospital")
